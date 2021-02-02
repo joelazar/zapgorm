@@ -1,4 +1,4 @@
-module moul.io/zapgorm
+module github.com/joelazar/zapgorm
 
 require go.uber.org/zap v1.16.0
 
